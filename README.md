@@ -1,6 +1,6 @@
 <p align="center">
 
-![Figure 1.](https://github.com/humancomputerintegration/ThermalGrasp/blob/master/Images/02_02-Fig 01 Large.jpg)
+![Figure 1.](https://github.com/humancomputerintegration/ThermalGrasp/blob/master/Images/Fig-01-Large.jpg)
 
 </p>
 
