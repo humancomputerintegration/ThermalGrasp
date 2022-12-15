@@ -1,6 +1,6 @@
 <p align="center">
 
-![Figure 1.](/Images/Fig-01-Large.jpg?raw=true)
+![Figure 1 has two photos labelled (a) and (b). Figure 1(a) depicts a user kneeling with their rear knee on artificial turf and their front foot on top of sand. They are wearing thermal feedback devices on their hands and feet, as well as a VR headset. The foot that is in the sand is experiencing cold sensation. One of their hands is holding a wooden dowel rod and is experiencing heat from a fire shown in VR. Figure 1(b) depicts a fabricated device that wraps around the user's hand.](/Images/Fig-01-Large.jpg?raw=true)
 
 </p>
 
@@ -14,6 +14,12 @@ This is a repository for the prototype ThermalGrasp devices created by Alex Mazu
 * `3D-prints` contains models for the form-fitting shells for the hands and feet (.stl files). These can be printed in regular PLA using an FDM 3D printer. Additionally includes Fusion360 assemblies (.f3d files) of the entire device (shells, peltiers, fans, copper, etc.).
 
 ## Hardware
+
+<p align="center">
+
+![Shows our hand and footworn devices. A rendering of the components labeled in an exploded view is depicted, next to an image of the fabricated device.](/Images/Fabrication.jpg?raw=true)
+
+</p>
 
 Here are the specific hardware components used in each device instantiation and our hardware used in Study 2's backpack.
 
