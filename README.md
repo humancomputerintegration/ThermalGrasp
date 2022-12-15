@@ -15,7 +15,7 @@ This is a repository for the prototype ThermalGrasp devices created by Alex Mazu
 
 ## Hardware
 
-Here are the specific hardware components used in each device instantiation and our hardware used in Study 2.
+Here are the specific hardware components used in each device instantiation and our hardware used in Study 2's backpack.
 
 - Peltiers (foot: TEC12706, hand: CP60231H)
 - Copper heat pipes (foot: 70W 11.2 x 3.5 x 100mm, hand: 60W 8.3 x 2.5 x 70mm)
@@ -26,7 +26,7 @@ Here are the specific hardware components used in each device instantiation and 
 - Temperature sensors (100kΩ NTC 3950 thermistors) 
 - Motor drivers (VNH3SP30
 - Microcontroller (ATmega2560/Arduino Mega)
-- MOSFET (RFP30N06LE, triggers fans) 
+- MOSFET (RFP30N06LE, triggers fans)
 
 ## Contact
 
