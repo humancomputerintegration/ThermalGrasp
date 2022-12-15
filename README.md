@@ -11,7 +11,7 @@ This is a repository for the prototype ThermalGrasp devices created by Alex Mazu
 ## Repository Structure
 
 * `Arduino` contains code for the microcontroller (Arduino Mega).
-* `3D-prints` contains models for the form-fitting shells for the hands and feet. These can be printed in regular PLA using an FDM 3D printer.
+* `3D-prints` contains models for the form-fitting shells for the hands and feet (.stl files). These can be printed in regular PLA using an FDM 3D printer. Additionally includes Fusion360 assemblies (.f3d files) of the entire device (shells, peltiers, fans, copper, etc.).
 
 ## Hardware
 
