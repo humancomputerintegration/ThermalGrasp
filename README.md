@@ -30,7 +30,7 @@ Here are the specific hardware components used in each device instantiation and 
 - Heatsinks (foot: 40 x 40 x 12mm, hand: 20 x 20 x 10mm)
 - Fans (foot: 24V, 40 x 40mm, hand: 12V, 20 x 20mm)
 - Temperature sensors (100kΩ NTC 3950 thermistors) 
-- Motor drivers (VNH3SP30
+- Motor drivers (VNH3SP30)
 - Microcontroller (ATmega2560/Arduino Mega)
 - MOSFET (RFP30N06LE, triggers fans)
 
