@@ -33,6 +33,13 @@ Here are the specific hardware components used in each device instantiation and 
 - Microcontroller (ATmega2560/Arduino Mega)
 - MOSFET (RFP30N06LE, triggers fans)
 
+## Citing
+
+When using or building upon this device in an academic publication, please consider citing as follows:
+
+A. Mazursky, J. Brooks, B. Desta and P. Lopes, "ThermalGrasp: Enabling Thermal Feedback even while Grasping and Walking," in 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), Orlando, FL, USA, 2024 pp. 342-353.
+doi: 10.1109/VR58804.2024.00056
+
 ## Contact
 
 For any questions about this repository, please contact alexmazursky@uchicago.edu
